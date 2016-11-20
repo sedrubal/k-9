@@ -21,7 +21,7 @@ dependencies {
     compile 'com.beetstra.jutf7:jutf7:1.0.0'
     compile "com.android.support:support-annotations:${androidSupportLibraryVersion}"
 
-    androidTestCompile 'com.android.support.test:runner:0.4.1'
+    androidTestCompile 'com.android.support.test:runner:0.5'
     androidTestCompile 'com.madgag.spongycastle:pg:1.51.0.0'
 
     testCompile "com.squareup.okio:okio:${okioVersion}"
